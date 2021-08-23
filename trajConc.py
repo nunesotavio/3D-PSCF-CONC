@@ -1,11 +1,9 @@
-'''===========================================================================================================
-Universidade Federal de Santa Catarina (UFSC)
-Programa de Pós-Graduação em Engenharia Ambiental (PPGEA)
-Autor: Otávio Nunes dos Santos
-Orientador: Dr. Leonardo Hoinaski
-
-Artigo Científico: Identificação das fontes de contaminação da água de chuva do município de Florianópolis-SC.                             
-===========================================================================================================''' 
+'''===============================================================================================================
+Federal University of Santa Catarina
+Department of Sanitary and Environmental Engineering
+Authors: Otávio Nunes dos Santos, Leonardo Hoinaski
+Incorporating gridded concentration data in air pollution back trajectories analysis for source identification
+==================================================================================================================''' 
 
 #%% ---------------------- Importação de bibiotecas
 import os
