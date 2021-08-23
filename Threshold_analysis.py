@@ -1,3 +1,9 @@
+'''===============================================================================================================
+Federal University of Santa Catarina
+Department of Sanitary and Environmental Engineering
+Authors: Otávio Nunes dos Santos, Leonardo Hoinaski
+Incorporating gridded concentration data in air pollution back trajectories analysis for source identification
+==================================================================================================================''' 
 
 #%% ---------------------- Importação de bibiotecas
 import glob    
